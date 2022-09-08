@@ -19,4 +19,13 @@ import styled from "styled-components";
    align-items: center;
    position: absolute;
    padding-left: 240px;
+   font-size: 20px;
+ `
+
+ export const ScreeWarning = styled.div`
+    text-align: center;
+    .emogi{
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
  `
